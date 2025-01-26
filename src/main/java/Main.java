@@ -1,5 +1,5 @@
 public class Main {
-
+// test
     public static void main(String[] args) {
         LoanManager m1 = new LoanManager();
         m1.addLoan("Alice Betsy", 100, 0.1);
